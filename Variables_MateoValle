@@ -1,0 +1,21 @@
+# # my_name = "Pedro"
+# # my_name = 'Juan'
+
+# # print('Este es mi nombre> =>', my_name)
+# # my_name = "Mateo"
+
+# # print('Este es mi nombre renombrado:=>', my_name)
+
+# # integer
+
+# # my_age = 27
+# # print('Esta es mi edad: =>', my_age, 'y mi nombre es:>', my_name)
+
+# # ejemplos de impresion de mi edad
+
+# # my_age_m = input('Cual es tu edad?') # con input se imprime una variable
+# # print("Tu edad es", my_age_m)
+
+n_age = input('Ingresa tu nombre:')
+m_age = input ('Ingresa tu edad:')
+t_age = print(' y tu nombre es:>', n_age, 'Tu edad es:>', m_age)
